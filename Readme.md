@@ -1,3 +1,17 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/DXApplication5/MVVM/Data/Customer.cs) (VB: [Customer.vb](./VB/DXApplication5/MVVM/Data/Customer.vb))
+* [DataAccess.cs](./CS/DXApplication5/MVVM/Data/DataAccess.cs) (VB: [DataAccess.vb](./VB/DXApplication5/MVVM/Data/DataAccess.vb))
+* [BaseViewModel.cs](./CS/DXApplication5/MVVM/ViewModels/BaseViewModel.cs) (VB: [BaseViewModel.vb](./VB/DXApplication5/MVVM/ViewModels/BaseViewModel.vb))
+* [CustomersViewModel.cs](./CS/DXApplication5/MVVM/ViewModels/CustomersViewModel.cs) (VB: [CustomersViewModel.vb](./VB/DXApplication5/MVVM/ViewModels/CustomersViewModel.vb))
+* [DocumentsViewModel.cs](./CS/DXApplication5/MVVM/ViewModels/DocumentsViewModel.cs) (VB: [DocumentsViewModel.vb](./VB/DXApplication5/MVVM/ViewModels/DocumentsViewModel.vb))
+* [FindDialogViewModel.cs](./CS/DXApplication5/MVVM/ViewModels/FindDialogViewModel.cs) (VB: [FindDialogViewModel.vb](./VB/DXApplication5/MVVM/ViewModels/FindDialogViewModel.vb))
+* [CustomersView.cs](./CS/DXApplication5/MVVM/Views/CustomersView.cs) (VB: [CustomersView.vb](./VB/DXApplication5/MVVM/Views/CustomersView.vb))
+* [FindDialogView.cs](./CS/DXApplication5/MVVM/Views/FindDialogView.cs) (VB: [FindDialogView.vb](./VB/DXApplication5/MVVM/Views/FindDialogView.vb))
+* [MainView.cs](./CS/DXApplication5/MVVM/Views/MainView.cs) (VB: [MainView.vb](./VB/DXApplication5/MVVM/Views/MainView.vb))
+* [Program.cs](./CS/DXApplication5/Program.cs) (VB: [Program.vb](./VB/DXApplication5/Program.vb))
+<!-- default file list end -->
 # How to create a custom DialogService with custom commands
 
 
